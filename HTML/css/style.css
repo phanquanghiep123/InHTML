@@ -1,0 +1,107 @@
+body {
+    font-family: 'Cerebri Sans Book';
+    font-weight: normal;
+    font-style: normal;
+}
+.width-5{
+    width: 5%;
+}
+.width-95{
+    width: 95%;
+}
+.width-10{
+    width: 10%;
+}
+.width-20{
+    width: 20%;
+}
+.width-30{
+    width: 30%;
+}
+.width-40{
+    width: 40%;
+}
+.width-50{
+    width: 50%;
+}
+.width-60{
+    width: 60%;
+}
+.width-70{
+    width: 70%;
+}
+.width-80{
+    width: 80%;
+}
+.width-90{
+    width: 90%;
+}
+.width-100{
+    width: 100%;
+}
+h1{
+    font-size: 150px;
+}
+h2{
+    font-size: 100px;
+}
+h3{
+    font-size: 60px;
+}
+h4{
+    font-size: 54px;
+}
+h5{
+    font-size: 48px;
+}
+.text-size-100{
+    font-size: 100px;
+}
+.text-font-1{
+    font-family: 'Cerebri Sans Book';
+    font-weight: normal;
+    font-style: normal;
+}
+.text-font-2{
+    font-family: 'Cerebri Sans';
+    font-weight: bold;
+    font-style: normal;
+}
+.text-color-blue{
+    color: #1e33c0;
+}
+.text-color-white{
+    color: #ffffff;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.text-center{
+    text-align: center;
+}
+.cented{
+    margin: 0 auto;
+    float: none;
+}
+.contact{
+    font-family: 'Cerebri Sans';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 34px;
+    text-align: right;
+    text-decoration: underline;
+}
+.red.logo{
+    background-image: url(../img/red-logo.png);
+    background-repeat: no-repeat;
+    width: 206px;
+    height: 40px;
+    text-indent: 9999999px;
+}
+.blue.contact{
+    color: #1e33c0;
+}
+

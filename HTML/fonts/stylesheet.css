@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('CerebriSans-Bold.eot');
+    src: url('CerebriSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CerebriSans-Bold.woff2') format('woff2'),
+        url('CerebriSans-Bold.woff') format('woff'),
+        url('CerebriSans-Bold.ttf') format('truetype'),
+        url('CerebriSans-Bold.svg#CerebriSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cerebri Sans Book';
+    src: url('CerebriSans-Book.eot');
+    src: url('CerebriSans-Book.eot?#iefix') format('embedded-opentype'),
+        url('CerebriSans-Book.woff2') format('woff2'),
+        url('CerebriSans-Book.woff') format('woff'),
+        url('CerebriSans-Book.ttf') format('truetype'),
+        url('CerebriSans-Book.svg#CerebriSans-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
